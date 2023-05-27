@@ -16,3 +16,38 @@ Here are some ideas to get you started:
 -->
 
 https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+
+### 🌻  Abstract
+1.  This repository concludes my personal projects.
+2.  Relevant technical skills (⭐ represents usage frequency):
+    > 
+    * Programming Language: Python    ⭐⭐⭐⭐⭐
+    * Data Analysis: Numpy, Pandas  ⭐⭐⭐⭐
+    * Data visualization: Matplotlib.pyplot, Seaborn  ⭐⭐⭐
+    * Computer Vision:  OpenCV  ⭐⭐
+    * Machine Learning: Sklearn  ⭐⭐⭐
+    * Deep Learning:  PyTorch ⭐⭐⭐
+    > 
+
+### 🌻   2023 
+**1.  Repository: Natural Lanuage Processing (NLP)**  
+  
+  This repository includes two tasks:   
+>
+   
+      🌱 Information Retrival and Question Answering   
+      🌱 Information Retrival and Summarization
+      
+>
+
+**2.  Repository: Mining Big Data (MBD)**  
+  This repository includes two tasks:   
+>
+   
+      🌱    
+      🌱 
+      
+>
+
+🌼🌻🌸🔆⭐ 
+
