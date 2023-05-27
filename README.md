@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 
 ### 🌻  Abstract
 1.  This repository concludes my personal projects.
