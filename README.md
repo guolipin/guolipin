@@ -9,7 +9,7 @@ I'm Lipin, an enthusiastic and self-taught machine learning engineer / data anal
 |  Projects | Categlory |    Description     |
 | :---       |    :----:   |   :--- |
 | Animal Classification | Computer Vision  | Our task is to classify animals in the animal dataset which have has 6,270 images categorized into 151 different labeled classes. |
-| [Search Engine](https://github.com/guolipin/search_engine)   | Natural Language Processing | Our task is to answer query about COVID-19 and return relevant scholarly articles.   |
+| [Search Engine](github.com/guolipin/search_engine)   | Natural Language Processing | Our task is to answer query about COVID-19 and return relevant scholarly articles.   |
    
 
     
