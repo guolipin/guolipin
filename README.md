@@ -8,9 +8,9 @@ I'm Lipin, an enthusiastic and self-taught machine learning engineer / data anal
 ### 🌻 My projects
 |  Projects | Categlory |    Description     |
 | :---       |    :----:   |   :--- |
-| [Animal Classification](https://github.com/guolipin/animal_classification) | Computer Vision /<br> Deep Learning| The task is to classify animals in the animal dataset which have has 6,270 images categorized into 151 different labeled classes.|
 | [COVID-19 Information Retreival](https://github.com/guolipin/search_engine)   | Natural Language Processing | The task is to answer query about COVID-19 and return relevant scholarly articles.  |
 | [IBM Stock Price Prediction]()   | Deep Learning | The task is to predict a short-term stock price of IBM. |
+| [Animal Classification](https://github.com/guolipin/animal_classification) | Computer Vision /<br> Deep Learning| The task is to classify animals in the animal dataset which have has 6,270 images categorized into 151 different labeled classes.|
 
 ### 🎄 Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guolipin"/> 
