@@ -5,6 +5,11 @@ I'm Lipin, an enthusiastic and self-taught machine learning engineer / data anal
 ### :octocat: Things I code with
 <img width="385" alt="image" src="https://github.com/guolipin/guolipin/assets/134791744/d96f3393-af47-4033-8351-042b327d706a">
 
+### ❤️ Project I am working on
+|  Projects | Categlory |    Description     |
+| :---       |    :----:   |   :--- |
+| [My Website](https://github.com/guolipin/guolipin.github.io)   | HTML | The task is to create my personal website. |
+
 ### 🌻 My projects
 |  Projects | Categlory |    Description     |
 | :---       |    :----:   |   :--- |
