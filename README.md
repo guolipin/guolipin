@@ -8,7 +8,7 @@ I'm Lipin, an enthusiastic and self-taught machine learning engineer / data anal
 ### ❤️ Project I am working on
 |  Projects | Categlory |    Description     |
 | :---       |    :----:   |   :--- |
-| [Build A Website From Scratch](https://github.com/guolipin/guolipin.github.io)   | HTML | The task is to create my personal website. |
+| [My Website](https://github.com/guolipin/guolipin.github.io)   | HTML | The task is to create my personal website from scratch. |
 
 ### 🌻 My projects
 |  Projects | Categlory |    Description     |
