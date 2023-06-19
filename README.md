@@ -3,7 +3,18 @@
 I'm Lipin, an enthusiastic and self-taught machine learning engineer / data analyst  from 🇨🇳 **Chaozhou, China**, currently living in 🇦🇺 **Adelaide, Australia**.
 
 ### :octocat: Things I code with
-<img width="385" alt="image" src="https://github.com/guolipin/guolipin/assets/134791744/d96f3393-af47-4033-8351-042b327d706a">
+![1](https://github.com/guolipin/guolipin/assets/134791744/a95949ca-3118-417f-97d5-d67f56a45bf5)
+![5](https://github.com/guolipin/guolipin/assets/134791744/3806df9c-6e8e-484e-95a6-cee35f2d01c1)
+![6](https://github.com/guolipin/guolipin/assets/134791744/2ecf6e42-bf87-4dc9-9c42-e6a72ef908f4)
+![7](https://github.com/guolipin/guolipin/assets/134791744/b7319b7a-393d-4034-ab78-772e3833ca8b)
+![2](https://github.com/guolipin/guolipin/assets/134791744/21dd8e64-19b9-4311-b9f9-17e62db82182)
+![3](https://github.com/guolipin/guolipin/assets/134791744/897dcde7-1fed-45dc-b00f-cad366ae210d)
+![4](https://github.com/guolipin/guolipin/assets/134791744/3abfa8ea-7d54-41da-a3a2-ee3e41611a5e)
+
+
+
+
+
 
 ### ❤️ Project I am working on
 |  Projects | Categlory |    Description     |
