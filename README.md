@@ -17,7 +17,7 @@ I'm Lipin, an enthusiastic and self-taught machine learning engineer / data anal
 | [My Website](https://github.com/guolipin/guolipin.github.io)   | HTML / CSS / JavaScript | The task is to create my personal website from scratch. |
 
 ### 🌻 My projects
-|  Projects | Categlory |    Description     |
+|  Projects | Category |    Description     |
 | :---       |    :----:   |   :--- |
 | [COVID-19 Information Retreival](https://github.com/guolipin/search_engine)   | Natural Language Processing | The task is to answer query about COVID-19 and return relevant scholarly articles.  |
 | [IBM Stock Price Prediction](https://github.com/guolipin/IBM_stock_prediction)   | Deep Learning | The task is to predict a short-term stock price of IBM. |
