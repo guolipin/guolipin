@@ -15,6 +15,7 @@ I'm Lipin, an enthusiastic and self-taught machine learning engineer / data anal
 |  Projects | Categories |    Description     |
 | :---       |    :----:   |   :--- |
 | [My Website](https://github.com/guolipin/guolipin.github.io)   | HTML / CSS / JavaScript | The task is to create my personal website from scratch. |
+|AI in Agriculture | Python | Dataset collection, new technologies or applications |
 
 ### 🌻 My projects
 |  Projects | Categories |    Description     |
